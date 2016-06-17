@@ -8,7 +8,8 @@ import android.os.Looper;
 import android.util.Log;
 import android.widget.Toast;
 
-import static com.abhilash.smartcampusmqttlib.SmartXLibConstants.*;
+
+import com.abhilash.smartcampusmqttlib.SmartXLibConstants;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -20,7 +21,7 @@ import java.util.Date;
 /**
  * Created by shashankshekhar on 03/11/15.
  */
-public class CommonUtils {
+public class CommonUtils implements SmartXLibConstants {
     private static final String SMART_CAMPUS_FOLDER_NAME = "SmartCampus";
     private static final String SMART_CAMPUS_LOG_FILE_NAME = "SmartCampusLog.txt";
 

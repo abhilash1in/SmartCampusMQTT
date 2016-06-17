@@ -8,7 +8,6 @@ import com.abhilash.smartcampusmqttlib.ServiceAdapter;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 
-
 import cz.msebera.android.httpclient.Header;
 
 /**
