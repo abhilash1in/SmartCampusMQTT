@@ -1,1 +1,1 @@
-"# SmartCampusMQTT" 
+# SmartCampusMQTT
