@@ -1,1 +1,1 @@
-# SmartCampusMQTT
+# MQTT Client Library
